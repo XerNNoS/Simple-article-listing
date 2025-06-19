@@ -10,7 +10,7 @@
       Challenge
     </a>
     <span> | </span>
-    <a href="https://xernnos.github.io/Simple-articles-listing/">
+    <a href="https://xernnos.github.io/Simple-article-listing/">
       Solution
     </a>
   </h3>
@@ -28,7 +28,7 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/XerNNoS/Simple-FAQ/refs/heads/main/FAQ.png)
+![screenshot](https://raw.githubusercontent.com/XerNNoS/Simple-article-listing/refs/heads/main/simple%20articles%20listing.png)
 
 
 ### Built with
